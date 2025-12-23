@@ -1,0 +1,25 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+.class
+
+# Virtual envs
+.venv/
+venv/
+ENV/
+env/
+
+# Datasets & caches
+# dataset/**
+# llm_cache/**
+# res/**
+*.pkl
+*.bin
+*.ckpt
+
+# Logs/results
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
