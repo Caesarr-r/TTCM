@@ -1,4 +1,4 @@
-# TTCM: TTCM: Towards Effective Few-Shot OOD Detection for Text-Attributed Graphs via Topology-Text Consensus Modeling
+# TTCM: Towards Effective Few-Shot OOD Detection for Text-Attributed Graphs via Topology-Text Consensus Modeling
 
 This repository contains the implementation of **TTCM**, a framework for few-shot graph node Out-of-Distribution (OOD) detection and classification.
 
